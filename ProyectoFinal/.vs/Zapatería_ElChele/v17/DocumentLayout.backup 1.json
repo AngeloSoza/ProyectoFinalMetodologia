@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\zapater\u00EDa_elchele\\forms\\gestionusuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\forms\\gestionusuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\zapater\u00EDa_elchele\\forms\\gestioncategoriasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\forms\\gestioncategoriasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|c:\\users\\angel\\onedrive\\desktop\\metodolog\u00EDa_y_programacion_estructurada\\proyectosistemainventario\\_sistema_inventario_ventas\\zapater\u00EDa_elchele\\zapater\u00EDa_elchele\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\zapater\u00EDa_elchele\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\zapater\u00EDa_elchele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\zapater\u00EDa_elchele\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\zapater\u00EDa_elchele\\forms\\gestionproductosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\forms\\gestionproductosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\zapater\u00EDa_elchele\\forms\\gestionventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\forms\\gestionventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\zapater\u00EDa_elchele\\forms\\reportesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\forms\\reportesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\zapater\u00EDa_elchele\\forms\\gestionproductosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE7FEC1-4302-4140-91C3-B3BEDA48DADF}|Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele.csproj|solutionrelative:zapater\u00EDa_elchele\\forms\\gestionproductosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:28:47.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\DashboardForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Forms\\DashboardForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:24:00.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionCategoriasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionCategoriasForm.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Forms\\GestionCategoriasForm.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionCategoriasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Forms\\GestionCategoriasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:23:58.677Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionUsuariosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionUsuariosForm.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Forms\\GestionUsuariosForm.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionUsuariosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Forms\\GestionUsuariosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:23:54.995Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Program.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Program.cs",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:23:26.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Forms\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:23:49.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionVentasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionVentasForm.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Forms\\GestionVentasForm.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionVentasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Forms\\GestionVentasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:23:51.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportesForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\ReportesForm.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Forms\\ReportesForm.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\ReportesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Forms\\ReportesForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:23:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionProductosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionProductosForm.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Forms\\GestionProductosForm.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionProductosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Forms\\GestionProductosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:08:47.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestionProductosForm.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionProductosForm.cs",
+              "RelativeDocumentMoniker": "Zapater\u00EDa_ElChele\\Forms\\GestionProductosForm.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\Metodolog\u00EDa_y_programacion_estructurada\\ProyectoSistemaInventario\\_Sistema_Inventario_Ventas\\Zapater\u00EDa_ElChele\\Zapater\u00EDa_ElChele\\Forms\\GestionProductosForm.cs",
+              "RelativeToolTip": "Zapater\u00EDa_ElChele\\Forms\\GestionProductosForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:17:54.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
